@@ -1,10 +1,11 @@
 #include<stdio.h>
 /**
-*main -entrypoint
-*dont use printf
-*return. always 0(success)
+*main - Entry point
+*
+*Return: Always 0(success)
 */
-int main(void){
+int main(void)
+{
 puts("Programming is like building a multilingual puzzle/n");
-return 0;
+return (0);
 }
