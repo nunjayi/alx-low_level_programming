@@ -1,5 +1,9 @@
 #include<stdio.h>
+/**
+*main-entrypoint
+*return:Always 0(success)
+*/
 int main(){
-  printf("hello world!\n);
- return 0;
-              }
+printf("Holberton School");
+return 0;
+}
